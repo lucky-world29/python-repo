@@ -2,7 +2,7 @@
 
 ## Syllabus
 
-<<<<<<< HEAD
+
 Python is a **high-level programming language** created by **Guido van Rossum** and first released in **1991**. Known for its **simplicity**, **readability**, and **versatility**, Python is widely used in diverse fields such as web development, data science, and automation.
 
 ---
@@ -129,7 +129,7 @@ Python is incredibly versatile, and it can be used for various purposes:
 >>>>>>> 5eecd8947b018118e7ac5d6695494a0116474ed6
 
 ## Why Python?
-<<<<<<< HEAD
+
 
 Python is favored by developers worldwide due to its unique features:
 
@@ -248,7 +248,9 @@ Python stands out for several reasons:
 
 ---
 
->>>>>>> 5eecd8947b018118e7ac5d6695494a0116474ed6
+**Date:** January 3, 2025  
+**Day:** Friday
+
 
 
 # Python Variables
@@ -321,4 +323,28 @@ a = 4
 A = "Sally"
 # A will not overwrite a
 ```
+
+
+# Python - Variable Names
+
+
+## Variable Names
+A variable can have a short name (like `x` and `y`) or a more descriptive name (e.g., `age`, `carname`, `total_volume`).
+
+### Rules for Python Variables:
+1. A variable name must start with a letter or the underscore character.
+2. A variable name cannot start with a number.
+3. A variable name can only contain alpha-numeric characters and underscores (`A-z`, `0-9`, and `_`).
+4. Variable names are case-sensitive (`age`, `Age`, and `AGE` are three different variables).
+5. A variable name cannot be any of the Python keywords.
+
+### Examples:
+#### Legal Variable Names:
+```python
+myvar = "John"
+my_var = "John"
+_my_var = "John"
+myVar = "John"
+MYVAR = "John"
+myvar2 = "John"
 
