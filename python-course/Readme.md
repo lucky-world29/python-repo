@@ -344,6 +344,7 @@ A variable can have a short name (like `x` and `y`) or a more descriptive name (
 myvar = "John"
 my_var = "John"
 _my_var = "John"
+
 myVar = "John"
 MYVAR = "John"
 myvar2 = "John"
