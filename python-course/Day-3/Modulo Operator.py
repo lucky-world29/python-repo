@@ -12,4 +12,12 @@ if number_to_check % 2 == 0 :
 else :
     print(" odd")
 
+modulo_2 = 10%50
+print(modulo_2)
+
+Modulo_3  = 10%70
+print(Modulo_3)
+
+# Dividend Divisor Division_Result  Remainder
+
 
